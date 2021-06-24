@@ -1,0 +1,27 @@
+html * {
+    margin 0;
+    align-items: center;
+    text-align: center;
+}
+
+body{
+    margin: 1%; 
+    background: linear-gradient(to bottom, lightpink 0%, lightskyblue 100%);
+}
+
+h1 {
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: small;
+    margin-bottom: 10px;    
+}
+
+#videozao {
+    margin: 10px;
+}
+
+.videos {
+    margin: 10px;
+}
